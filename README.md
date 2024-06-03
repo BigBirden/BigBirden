@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+It's me! BigBirden (aka Artyom)! Nice to meet you here :)
+
+- 🔭 I’m currently working on my career of programmer. I want making games!
+- 🌱 I’m currently learning C++ and OOP!
+- ⚡ Fun fact: Not so funny but i love kitties c:
+
 <!--
 **BigBirden/BigBirden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
